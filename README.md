@@ -11,15 +11,12 @@
 | ☕ Niveau de café | Élevé 
 | 🔥 Motivation    | Maximum|
 
-
-
  🖥 Commande Terminal
 
-
+```bash
 curl -s https://api.github.com/users/angel237-svg
-bash
 {
-  "name": "Angel",
+  "name": "Ange",
   "role": "Software Engineering Student",
   "focus": "Backend & Systems",
   "status": "Learning & Building"
