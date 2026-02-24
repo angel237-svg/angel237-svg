@@ -16,7 +16,7 @@
 ```bash
 curl -s https://api.github.com/users/angel237-svg
 {
-  "name": "Ange",
+  "name": "Angel",
   "role": "Software Engineering Student",
   "focus": "Backend & Systems",
   "status": "Learning & Building"
