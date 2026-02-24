@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @angel237-svg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...https://github.com/angel237-svg/angel237-svg/tree/main
-- 💞️ I’m looking to collaborate on les devellopeurs...
-- 📫 How to reach me ...
-- 😄 Pronouns: ange
-- ⚡ Fun fact🕺...
+ 👋 Bonjour, je suis Angel ! 
+💻 Passionnée  par le développement logiciel & les systèmes  
+🚀 Objectif : Devenir un ingénieur logiciel complet et autonome  
 
-<!---
-angel237-svg/angel237-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 Statut du système
+
+| Composant        | Statut |
+|------------------|--------|
+| 🎓 Formation     | Génie Logiciel |
+| 💻 Focus actuel  | Structures de données & Backend |
+| ☕ Niveau de café | Élevé 
+| 🔥 Motivation    | Maximum|
+
+
+
+ 🖥 Commande Terminal
+
+
+curl -s https://api.github.com/users/angel237-svg
+
+{
+  "name": "Angel",
+  "role": "Software Engineering Student",
+  "focus": "Backend & Systems",
+  "status": "Learning & Building"
+}
