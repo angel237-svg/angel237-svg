@@ -2,9 +2,7 @@
 💻 Passionnée  par le développement logiciel & les systèmes  
 🚀 Objectif : Devenir un ingénieur logiciel complet et autonome  
 
----
-
-## 🧠 Statut du système
+ Statut du système
 
 | Composant        | Statut |
 |------------------|--------|
@@ -19,7 +17,7 @@
 
 
 curl -s https://api.github.com/users/angel237-svg
-
+bash
 {
   "name": "Angel",
   "role": "Software Engineering Student",
